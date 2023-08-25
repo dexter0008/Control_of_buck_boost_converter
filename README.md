@@ -20,10 +20,10 @@ where Vo=Output voltage, D=duty cycle, Vin=Input Voltage.
 In a buck-boost converter, we can change the output voltage by varying the converter's duty cycle.
 This concept is employed in the PID controller design of the buck-boost converter.
 Here in this project, I have assumed the reference voltage to be -13v.
-You can change the reference voltage by double-clicking on the V_ref block of the Buck_boost_with_PID_controller.slx
+You can change the reference voltage by double-clicking on the V_ref block of the Buck_boost_coverter_with_PID_controller.slx
 A buck-boost converter without PID controller tuning is provided in Buck_Boost_converter_without_controller.slx.
-The parameter are provided.
-To tune the PID controller, double-click the PID block of the Buck_boost_PID.slx file.
+The parameters are provided.
+To tune the PID controller, double-click the PID block of the Buck_boost_converter_with_PID_controller.slx file.
 Click the tune button inside the PID dialogue box.
 ## Reference 
 ___
